@@ -177,8 +177,8 @@ I specialize in **enterprise middleware integration using SAP PI/PO** (Process I
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="125" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/917365099464" target="_blank">
-      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="WhatsApp" width="125" />
+    <a href="https://www.instagram.com/barbi_mondal_04" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="125" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:swastikamondal1512@gmail.com">
@@ -198,8 +198,8 @@ I specialize in **enterprise middleware integration using SAP PI/PO** (Process I
       <img src="https://img.shields.io/badge/Email-swastikamondal1512%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" height="38" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://wa.me/917365099464" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" />
+    <a href="https://www.instagram.com/barbi_mondal_04" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%40barbi__mondal__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
     </a>
     &nbsp;
     <a href="https://github.com/Swastika-Mondal">
